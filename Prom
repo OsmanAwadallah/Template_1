@@ -1,0 +1,35 @@
+I want to create a comprehensive e-government system with the following features:
+
+Basic Requirements:
+- Frontend: React.js with Material UI
+- Backend: Node.js + Express.js
+- Database: MongoDB
+- Authentication: JWT with roles (citizen, employee, administrator)
+
+Required Features:
+1. Integrated user interface supporting Arabic/English
+2. Government services request system (12 core services)
+3. Dashboard for each user type
+4. Electronic appointment system
+5. Electronic payment gateway
+6. Instant notification system
+7. Document upload/download
+8. Live chat between citizen and employee
+9. Integration with SMS system for sending notifications
+- Dark mode support
+- Advanced reports and statistics
+- Service evaluation system
+
+Technical Requirements:
+- I want a complete, ready-to-execute code (not just examples)
+- Full API documentation
+- Step-by-step instructions on how to run the project
+- Clear file structure for both Frontend and Backend
+- Ensure all components work together seamlessly
+
+Expected Output:
+- Complete, ready-to-execute files
+- Clear instructions on how to run the project
+- Solutions to potential problems during implementation
+
+Note: I want all code written in a clear and easy-to-understand language, with explanatory comments when necessary.
